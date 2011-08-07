@@ -6,5 +6,5 @@ int fib(int n)
     return 0;
   if (n <= 2)
     return 1;
-  return 1 + 1;
+  return fib(n - 1) + 1;
 }
