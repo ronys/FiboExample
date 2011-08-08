@@ -4,6 +4,9 @@
 #include "Fib.h"
 
 TEST(FiboTest, ftest) {
-  EXPECT_EQ(0, fib(0));
-  EXPECT_EQ(1, fib(1));
+  struct {int n; int fn;} cases[] = {
+    {0, 0}, {1, 1},
+  };
+  for (int i = 0; i < sizeof(cases)/sizeof(cases[0]); i++)
+    EXPECT_EQ(cases[i].fn, fib(cases[i].n));
 }
