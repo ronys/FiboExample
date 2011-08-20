@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FiboExample", "FiboExample.vcxproj", "{11C75B96-F712-5057-2AD9-070DDABA2A2D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FiboExample", "FiboExample.vcxproj", "{14F3051E-DFE7-FD4E-CCA1-ED268DE3121D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{11C75B96-F712-5057-2AD9-070DDABA2A2D}.Debug|Win32.ActiveCfg = Debug|Win32
-		{11C75B96-F712-5057-2AD9-070DDABA2A2D}.Debug|Win32.Build.0 = Debug|Win32
-		{11C75B96-F712-5057-2AD9-070DDABA2A2D}.Release|Win32.ActiveCfg = Release|Win32
-		{11C75B96-F712-5057-2AD9-070DDABA2A2D}.Release|Win32.Build.0 = Release|Win32
+		{14F3051E-DFE7-FD4E-CCA1-ED268DE3121D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{14F3051E-DFE7-FD4E-CCA1-ED268DE3121D}.Debug|Win32.Build.0 = Debug|Win32
+		{14F3051E-DFE7-FD4E-CCA1-ED268DE3121D}.Release|Win32.ActiveCfg = Release|Win32
+		{14F3051E-DFE7-FD4E-CCA1-ED268DE3121D}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
